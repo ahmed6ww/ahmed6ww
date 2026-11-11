@@ -1,8 +1,5 @@
-<p align="center"><img src="assets/header.svg" alt="" width="100%" /></p>
+<p align="center"><img src="assets/profile-card.svg" alt="Muhammad Ahmed Sheikh — Agentic AI Engineer, Full-Stack and Cloud-Native Engineer. Building production AI and scalable applications for real-world workflows." width="100%" /></p>
 
-<h1 align="center">Muhammad Ahmed Sheikh</h1>
-<p align="center"><strong>Agentic AI Engineer · Full-Stack &amp; Cloud-Native Engineer</strong></p>
-<p align="center">Building production AI systems and scalable applications for real-world workflows.</p>
 <p align="center"><a href="https://www.linkedin.com/in/ahmed9ww/">LinkedIn</a> &nbsp; / &nbsp; <a href="https://ahvem.com/">Portfolio</a> &nbsp; / &nbsp; <a href="https://ahvem.com/contact">Contact</a></p>
 
 ## About
@@ -11,34 +8,24 @@ I'm an engineer in Islamabad building production SaaS applications and AI system
 
 ## Core toolkit
 
-**AI & agents** &nbsp; OpenAI Agents SDK · MCP · RAG · LangGraph  
-**Backend** &nbsp; Python · FastAPI · PostgreSQL · REST APIs  
-**Frontend** &nbsp; Next.js · React · TypeScript · Tailwind CSS  
-**Cloud** &nbsp; Docker · Kubernetes · Azure · CI/CD · Multi-tenant SaaS
+<img src="assets/toolkit-card.svg" alt="AI and agents: OpenAI Agents SDK, MCP, RAG and LangGraph. Backend: Python, FastAPI, PostgreSQL and REST APIs. Frontend: Next.js, React, TypeScript and Tailwind CSS. Cloud: Docker, Kubernetes, Azure and CI/CD." width="100%" />
 
 ## Selected work
 
-**Trueears** &nbsp; / &nbsp; Windows · AI dictation  
-A lightweight Windows application for capturing speech as text.
+<p>
+  <img src="assets/trueears-card.svg" alt="Trueears: lightweight AI dictation for Windows." width="49%" />
+  <a href="https://github.com/ahmed6ww/xero-agent"><img src="assets/xero-card.svg" alt="XeroAgent: AI assistance for Xero accounting workflows. View public repository." width="49%" /></a>
+  <img src="assets/meetwise-card.svg" alt="MeetWise: extracts action items from meetings." width="49%" />
+  <img src="assets/governance-card.svg" alt="Governance and Compliance: production SaaS for governance workflows." width="49%" />
+</p>
 
-**[XeroAgent](https://github.com/ahmed6ww/xero-agent)** &nbsp; / &nbsp; Python · AI agents · Xero  
-An AI agent bringing assistance to Xero accounting workflows.
-
-**MeetWise** &nbsp; / &nbsp; AI · Meeting intelligence  
-Extracts action items from meetings to support follow-up work.
-
-**Governance & Compliance SaaS** &nbsp; / &nbsp; Enterprise SaaS  
-Production SaaS development supporting governance and compliance workflows.
+<sub>Select XeroAgent to view its public repository.</sub>
 
 ## Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmed6ww&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true&amp;background=0D1511&amp;ring=54D98C&amp;fire=54D98C&amp;currStreakLabel=54D98C" alt="GitHub contribution statistics: total contributions, current streak, and longest streak" width="495" />
-</p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=ahmed6ww&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true&amp;background=0D1711&amp;ring=5CE49A&amp;fire=5CE49A&amp;currStreakLabel=5CE49A" alt="GitHub contribution statistics: total contributions, current streak and longest streak" width="495" /></p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d98a/ahmed6ww" alt="GitHub contribution activity calendar" width="100%" />
-</p>
+<p align="center"><img src="https://ghchart.rshah.org/39d98a/ahmed6ww" alt="GitHub contribution activity calendar" width="100%" /></p>
 
 <sub>GitHub activity reflects data available to these services and does not represent all work or necessarily include private contributions. Widgets may be cached or temporarily unavailable.</sub>
 
