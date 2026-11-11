@@ -1,64 +1,49 @@
+<p align="center"><img src="assets/header.svg" alt="" width="100%" /></p>
+
 <h1 align="center">Muhammad Ahmed Sheikh</h1>
-
 <p align="center"><strong>Agentic AI Engineer · Full-Stack &amp; Cloud-Native Engineer</strong></p>
-
-<p align="center">I build production AI systems and scalable applications that turn complex workflows into useful software.</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed9ww/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://ahvem.com/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://ahvem.com/contact">Contact</a>
-</p>
-
-<p align="center"><img src="assets/header.svg" alt="" width="480" /></p>
+<p align="center">Building production AI systems and scalable applications for real-world workflows.</p>
+<p align="center"><a href="https://www.linkedin.com/in/ahmed9ww/">LinkedIn</a> &nbsp; / &nbsp; <a href="https://ahvem.com/">Portfolio</a> &nbsp; / &nbsp; <a href="https://ahvem.com/contact">Contact</a></p>
 
 ## About
 
-I'm an engineer based in Islamabad, Pakistan, with approximately two years of professional experience and five years of hands-on software development. At Society 5 Solutions LLC, I've worked on production SaaS applications and AI systems. I'm particularly interested in agentic AI and cloud-native architecture: building systems that connect intelligent workflows with dependable applications.
+I'm an engineer in Islamabad building production SaaS applications and AI systems at Society 5 Solutions LLC. With approximately two years of professional experience and five years of hands-on development, I focus on agentic AI, backend systems, and cloud-native architecture.
 
-## Technology
+## Core toolkit
 
-**AI & agents** · OpenAI Agents SDK · MCP · RAG · LangGraph  
-**Backend** · Python · FastAPI · PostgreSQL · REST APIs  
-**Frontend** · Next.js · React · TypeScript · Tailwind CSS  
-**Cloud & infrastructure** · Docker · Kubernetes · Azure · CI/CD · Multi-tenant SaaS
+**AI & agents** &nbsp; OpenAI Agents SDK · MCP · RAG · LangGraph  
+**Backend** &nbsp; Python · FastAPI · PostgreSQL · REST APIs  
+**Frontend** &nbsp; Next.js · React · TypeScript · Tailwind CSS  
+**Cloud** &nbsp; Docker · Kubernetes · Azure · CI/CD · Multi-tenant SaaS
 
 ## Selected work
 
-### Trueears
-A lightweight Windows AI dictation application designed to make capturing speech as text easier.  
-**Focus:** Windows · AI dictation
+**Trueears** &nbsp; / &nbsp; Windows · AI dictation  
+A lightweight Windows application for capturing speech as text.
 
-### [XeroAgent](https://github.com/ahmed6ww/xero-agent)
-An AI agent for Xero accounting workflows, built to bring agent-based assistance to accounting tasks.  
-**Focus:** Python · AI agents · Xero
+**[XeroAgent](https://github.com/ahmed6ww/xero-agent)** &nbsp; / &nbsp; Python · AI agents · Xero  
+An AI agent bringing assistance to Xero accounting workflows.
 
-### MeetWise
-AI meeting intelligence that extracts action items from meetings, helping turn conversations into follow-up work.  
-**Focus:** AI · Meeting intelligence · Action-item extraction
+**MeetWise** &nbsp; / &nbsp; AI · Meeting intelligence  
+Extracts action items from meetings to support follow-up work.
 
-### Governance & Compliance SaaS
-Production enterprise SaaS development supporting governance and compliance workflows.  
-**Focus:** Enterprise SaaS · Governance · Compliance
+**Governance & Compliance SaaS** &nbsp; / &nbsp; Enterprise SaaS  
+Production SaaS development supporting governance and compliance workflows.
 
-## GitHub activity
+## Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ahmed6ww&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ahmed6ww&amp;hide_border=true&amp;disable_animations=true" />
-  <img src="https://streak-stats.demolab.com/?user=ahmed6ww&amp;hide_border=true&amp;disable_animations=true" alt="GitHub contribution statistics: total contributions, current streak, and longest streak" width="495" />
-</picture>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ahmed6ww&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true&amp;background=0D1511&amp;ring=54D98C&amp;fire=54D98C&amp;currStreakLabel=54D98C" alt="GitHub contribution statistics: total contributions, current streak, and longest streak" width="495" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmed6ww&amp;theme=github-dark&amp;hide_border=true&amp;custom_title=Contribution%20activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ahmed6ww&amp;theme=github-compact&amp;hide_border=true&amp;custom_title=Contribution%20activity" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed6ww&amp;theme=github-compact&amp;hide_border=true&amp;custom_title=Contribution%20activity" alt="GitHub contribution activity graph for the last 31 days" width="100%" />
-</picture>
+<p align="center">
+  <img src="https://ghchart.rshah.org/39d98a/ahmed6ww" alt="GitHub contribution activity calendar" width="100%" />
+</p>
 
-<sub>These third-party widgets reflect the contribution data available to them; they do not represent all work or necessarily include private contributions. They may be temporarily unavailable or cached.</sub>
+<sub>GitHub activity reflects data available to these services and does not represent all work or necessarily include private contributions. Widgets may be cached or temporarily unavailable.</sub>
 
-## Connect
+## Let's connect
 
 Interested in building production AI systems or scalable applications? Let's connect.
 
-[LinkedIn](https://www.linkedin.com/in/ahmed9ww/) · [Portfolio](https://ahvem.com/) · [Contact](https://ahvem.com/contact)
+[LinkedIn](https://www.linkedin.com/in/ahmed9ww/) &nbsp; / &nbsp; [Portfolio](https://ahvem.com/) &nbsp; / &nbsp; [Contact](https://ahvem.com/contact)
