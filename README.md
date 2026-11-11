@@ -25,13 +25,14 @@ I'm an engineer in Islamabad building production SaaS applications and AI system
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=ahmed6ww&amp;theme=dark&amp;hide_border=true&amp;disable_animations=true&amp;background=141B18&amp;ring=9ABCA6&amp;fire=9ABCA6&amp;currStreakLabel=9ABCA6" alt="GitHub contribution statistics: total contributions, current streak and longest streak" width="495" /></p>
 
-<p align="center"><img src="https://ghchart.rshah.org/82a891/ahmed6ww" alt="GitHub contribution activity calendar" width="100%" /></p>
+<p align="center"><img src="assets/contribution-calendar.svg" alt="GitHub contribution calendar: gray squares show no contributions, and green squares show contribution activity" width="100%" /></p>
 
-<sub>GitHub activity reflects data available to these services and does not represent all work or necessarily include private contributions. Widgets may be cached or temporarily unavailable.</sub>
+<sub>GitHub activity reflects data available to GitHub and the streak service and does not represent all work or necessarily include private contributions. Widgets may be cached or temporarily unavailable.</sub>
 
 ## Let's connect
 
 Interested in building production AI systems or scalable applications? Let's connect.
 
 [LinkedIn](https://www.linkedin.com/in/ahmed9ww/) &nbsp; / &nbsp; [Portfolio](https://ahvem.com/) &nbsp; / &nbsp; [Contact](https://ahvem.com/contact)
+
 
